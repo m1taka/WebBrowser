@@ -1,0 +1,16 @@
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.CodeAnalysisLog.xml
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.lastcodeanalysissucceeded
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\OwnWebBrowser.csproj.GenerateResource.Cache
+D:\VSProjects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+D:\VSProjects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+D:\VSProjects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+D:\VSProjects\WebBrowser\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+D:\VSProjects\WebBrowser\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+D:\VSProjects\WebBrowser\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
